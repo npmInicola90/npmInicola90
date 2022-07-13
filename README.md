@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi there 👋, My name is YASIR ARAFAT</h1>
+<h1 align="center"> Hi there 👋, My name is Nikky Leone</h1>
 
 
 <img align="right" src="https://user-images.githubusercontent.com/96917595/153999700-d4d968db-f3d6-4e27-b1a9-a21264e36eab.png" alt="img">
