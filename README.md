@@ -33,9 +33,9 @@
   
   
   
-  <h1 align="center"> Also, check out my Github stats and the languages I prefer! :)</h1>
+  <h1 align="center"> Also, check out my Github stats and the languages I use the most! :)</h1>
   
   [![Nicola Leone's github stats](https://github-readme-stats.vercel.app/api?username=npmInicola90&show_icons=true&theme=algolia)](https://github.com/npmInicola90)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npmInicola90&langs_count=5)
   
   
