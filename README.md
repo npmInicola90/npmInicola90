@@ -14,9 +14,9 @@
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 - 🔭 I’m currently working on NSR gaming 
-- 🌱 I’m currently mastering python and HTML
+- 🌱 I’m mastering python and HTML
 - 💬 You can contact me on: nicolaleone.commercial@gmail.com
-- 📫 you can reach me in Yarm, UK
+- 📫 if you wish to reach me: Yarm, UK
 - 😄 full time student 
 
 
@@ -33,7 +33,7 @@
   
   
   
-  <h1 align="center"> Also, check out my Github stats :)</h1>
+  <h1 align="center"> Also, check out my Github stats and the languages I prefer! :)</h1>
   
   [![Nicola Leone's github stats](https://github-readme-stats.vercel.app/api?username=npmInicola90&show_icons=true&theme=algolia)](https://github.com/npmInicola90)
   
