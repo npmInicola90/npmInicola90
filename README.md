@@ -29,3 +29,12 @@
 
   
   ![Snake animation](https://github.com/mlarasusan/mlarasusan/blob/output/github-contribution-grid-snake.svg)
+  
+  
+  
+  
+  <h1 align="center"> Check out my Github stats :)</h1>
+  
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?npmInicola90=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
