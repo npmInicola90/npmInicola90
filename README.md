@@ -33,7 +33,7 @@
   
   
   
-  <h1 align="center"> Check out my Github stats :)</h1>
+  <h1 align="center"> Also, check out my Github stats :)</h1>
   
   [![Nicola Leone's github stats](https://github-readme-stats.vercel.app/api?username=npmInicola90)](https://github.com/anuraghazra/github-readme-stats)
   
