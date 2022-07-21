@@ -38,7 +38,7 @@
   <h1 align="center"> Also, check out my Github stats and the languages I use the most! :)</h1>
   
   ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-408%20Thousand%20lines%20of%20code-blue) 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)]
+![activity graph](https://activity-graph.herokuapp.com/graph?username=npmInicola90&custom_title=Nikky's%20activity%20graph&theme=github-light&hide_border=true)
   
   
  
