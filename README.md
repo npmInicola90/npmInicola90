@@ -17,8 +17,8 @@
 - 🌱 I’m mastering <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a> and <a href="https://en.wikipedia.org/wiki/HTML">HTML</a>
 - 💬 You can contact me on: <a href="https://mail.google.com/mail/u/0/?to=nicolaleone.commercial@gmail.com&subject=Hey"> My email</a>
 - 📫 if you wish to reach me: <a href="https://goo.gl/maps/M2mgvNitzpSE9QhFA"> Yarm, England</a>
-- 😄 full time student 
-
+- 😄 full time <a href="https://education.github.com/pack">student</a>
+ 
 
 
 
