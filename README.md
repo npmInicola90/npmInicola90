@@ -45,6 +45,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npmInicola90" />
 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=npmInicola90&show_icons=true&theme=gotham" />
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=npmInicola90&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 
   
