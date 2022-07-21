@@ -15,21 +15,22 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 - 🔭 I’m currently working on NSR gaming 
 - 🌱 I’m mastering python and HTML
-- 💬 You can contact me on:
-nicolaleone.commercial@gmail.com
+- 💬 You can contact me on: Github
 - 📫 if you wish to reach me: Yarm, UK
 - 😄 full time student 
 
 
 
 
-[<img align="right" img src='https://user-images.githubusercontent.com/96917595/153748797-e8226337-756e-4878-bc6b-1540de28017f.svg' alt='Github' height='40'>](https://github.com/npmInicola90)  [<img align="right" img src='https://user-images.githubusercontent.com/96917595/153748687-a2af1e4f-22e0-4226-bae8-6c11451973aa.svg' alt='Facebook' height='40'>](https://www.facebook.com/)  [<img align="right" img src='https://user-images.githubusercontent.com/96917595/153748616-4ac789a7-80e5-4b1f-8069-fa3046fbe017.svg' alt='Instagram' height='40'>](https://www.instagram.com/dripler_89/)  [<img align="right" img src='https://user-images.githubusercontent.com/96917595/153748557-130749e2-9474-4099-a44b-0ef81985c011.svg' alt='Website' height='40'>](https://npmInicola90.github.io)  [<img align="right" img src='https://user-images.githubusercontent.com/96917595/153748506-91b88e03-3127-4e97-a8bc-556e92f7f0c8.svg' alt='Discord' height='40'>](https://discord.gg/nrjefT9d)   [<img align="right" img src='https://user-images.githubusercontent.com/96917595/153748401-fdd021a2-ba54-4bb8-a04c-01a4ec87329b.svg' alt='Twitter' height='40'>](https://twitter.com/NicolaL29699010)[<img align="right" img src='https://user-images.githubusercontent.com/96917595/153748959-843260c4-bf62-4300-a060-07a21368588a.png' alt='Fiverr' height='40'>](https://www.fiverr.com/)
+[<img src='https://user-images.githubusercontent.com/96917595/153748797-e8226337-756e-4878-bc6b-1540de28017f.svg' alt='Github' height='40'>](https://github.com/npmInicola90)  [<img src='https://user-images.githubusercontent.com/96917595/153748687-a2af1e4f-22e0-4226-bae8-6c11451973aa.svg' alt='Facebook' height='40'>](https://www.facebook.com/)  [<img src='https://user-images.githubusercontent.com/96917595/153748616-4ac789a7-80e5-4b1f-8069-fa3046fbe017.svg' alt='Instagram' height='40'>](https://www.instagram.com/dripler_89/)  [<img src='https://user-images.githubusercontent.com/96917595/153748557-130749e2-9474-4099-a44b-0ef81985c011.svg' alt='Website' height='40'>](https://npmInicola90.github.io)  [<img src='https://user-images.githubusercontent.com/96917595/153748506-91b88e03-3127-4e97-a8bc-556e92f7f0c8.svg' alt='Discord' height='40'>](https://discord.gg/nrjefT9d)   [<img src='https://user-images.githubusercontent.com/96917595/153748401-fdd021a2-ba54-4bb8-a04c-01a4ec87329b.svg' alt='Twitter' height='40'>](https://twitter.com/NicolaL29699010)[<img src='https://user-images.githubusercontent.com/96917595/153748959-843260c4-bf62-4300-a060-07a21368588a.png' alt='Fiverr' ='40'>](https://www.fiverr.com/)
 
 
 
 
-  
-  ![Snake animation](https://github.com/mlarasusan/mlarasusan/blob/output/github-contribution-grid-snake.svg)
+
+
+
+![Snake animation](https://github.com/mlarasusan/mlarasusan/blob/output/github-contribution-grid-snake.svg)
   
   
   
