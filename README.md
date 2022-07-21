@@ -42,7 +42,7 @@
   
   
  
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npmInicola90" height='340' /> 
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npmInicola90" height='330' /> 
   
 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=npmInicola90&show_icons=true&theme=gotham" />
