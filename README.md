@@ -41,7 +41,7 @@
  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npmInicola90" />
 </a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gotham" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=npmInicola90&show_icons=true&theme=gotham" />
 </a>
 
   
