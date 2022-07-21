@@ -15,7 +15,7 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 - 🔭 I’m currently working on NSR gaming 
 - 🌱 I’m mastering python and HTML
-- 💬 You can contact me on: Github
+- 💬 You can contact me on: <a href="https://github.com/npmInicola90"> Github.com</a>
 - 📫 if you wish to reach me: Yarm, UK
 - 😄 full time student 
 
