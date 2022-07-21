@@ -42,10 +42,10 @@
   
   
  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npmInicola90" height='250' width="750"/> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npmInicola90" height='250' width="1490"/> 
   
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=npmInicola90&show_icons=true&theme=gotham" width="750" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=npmInicola90&show_icons=true&theme=gotham" />
   
   
   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=npmInicola90&theme=highcontrast&hide_border=true) 
