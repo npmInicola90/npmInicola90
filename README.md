@@ -39,9 +39,9 @@
   
   
  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npmInicola90" />
 </a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=npmInicola90&repo=convoychat" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/github-readme-stats.vercel.app/?username=npmInicola90&theme=gotham" />
 </a>
 
   
