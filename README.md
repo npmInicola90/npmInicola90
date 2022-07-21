@@ -37,10 +37,12 @@
   
   <h1 align="center"> Also, check out my Github stats and the languages I use the most! :)</h1>
   
-  ![Nicola Leone's github stats](https://github-readme-stats.vercel.app/api?username=npmInicola90&show_icons=true&theme=gotham) 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=npmInicola90&layout=**)]
-  [![Nikkys wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=npmInicola90)
   
+ 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=npmInicola90&repo=github-readme-stats" />
+</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=npmInicola90&repo=convoychat" />
+</a>
 
   
   
