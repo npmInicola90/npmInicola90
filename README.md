@@ -39,10 +39,10 @@
   
   
  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npmInicola90" />
-</a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=npmInicola90&show_icons=true&theme=gotham" />
-</a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npmInicola90" />
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=npmInicola90&show_icons=true&theme=gotham" />
+
 
   
   
