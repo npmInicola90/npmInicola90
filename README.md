@@ -15,7 +15,8 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 - 🔭 I’m currently working on NSR gaming 
 - 🌱 I’m mastering python and HTML
-- 💬 You can contact me on: nicolaleone.commercial@gmail.com
+- 💬 You can contact me on:
+nicolaleone.commercial@gmail.com
 - 📫 if you wish to reach me: Yarm, UK
 - 😄 full time student 
 
