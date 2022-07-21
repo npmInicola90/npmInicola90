@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi there 👋, My name is Nikky Leone</h1>
+<h1 align="center"> Hi there <scr="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">,  My name is Nikky Leone</h1>
 
 
 <img align="right" src="https://user-images.githubusercontent.com/108899493/180130260-e42d087e-744c-4dca-83ca-49b5b073c1b3.png" alt="img"> 
@@ -39,9 +39,9 @@
   
   
  
-  <br align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npmInicola90" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npmInicola90" />
 
-  <br align="center" src="https://github-readme-stats.vercel.app/api?username=npmInicola90&show_icons=true&theme=gotham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=npmInicola90&show_icons=true&theme=gotham" />
 
 
   
