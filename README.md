@@ -37,6 +37,8 @@
   
   <h1 align="center"> Also, check out my Github stats and the languages I use the most! :)</h1>
   
+  ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-408%20Thousand%20lines%20of%20code-blue)
+  
   
  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npmInicola90" />
