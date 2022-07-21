@@ -2,7 +2,7 @@
 <h1 align="center"> Hi there 👋, My name is Nikky Leone</h1>
 
 
-<img align="right" src="https://user-images.githubusercontent.com/108899493/180129950-ae334674-ea7d-4da4-806e-db77bdcd7fdb.png" alt="img"> 
+<img align="right" src="https://user-images.githubusercontent.com/108899493/180130260-e42d087e-744c-4dca-83ca-49b5b073c1b3.png" alt="img"> 
 
 <h4><b>My Skills:</b></h4>
 
