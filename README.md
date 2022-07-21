@@ -39,7 +39,7 @@
   
   
  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=npmInicola90&repo=github-readme-stats" />
+  <img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)" />
 </a>
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=npmInicola90&repo=convoychat" />
 </a>
