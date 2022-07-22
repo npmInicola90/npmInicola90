@@ -14,7 +14,7 @@
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-<img align="right" src="https://iconscout.com/illustration/programming-books-3327970" alt="img"> 
+<img align="right" src="https://assets8.lottiefiles.com/packages/lf20_0yfsb3a1.json" alt="img"> 
 
 - 🔭 I’m currently working on <a href="https://npmInicola90.github.io">NSR gaming</a>
 - 🌱 I’m mastering <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a> and <a href="https://en.wikipedia.org/wiki/HTML">HTML</a>
