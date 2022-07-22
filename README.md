@@ -14,7 +14,7 @@
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-<img align="right" src="https://user-images.githubusercontent.com/108899493/180412149-a9f1bb29-8c8d-4146-90e3-dced09b6d77f.jpeg" alt="img"> 
+<img align="right" src="https://user-images.githubusercontent.com/108899493/180412481-b65e2c59-9126-4488-bc57-8acf0f99fe62.jpeg" alt="img"> 
 
 - 🔭 I’m currently working on <a href="https://npmInicola90.github.io">NSR gaming</a>
 - 🌱 I’m mastering <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a> and <a href="https://en.wikipedia.org/wiki/HTML">HTML</a>
