@@ -2,7 +2,7 @@
 <h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, My name is Nikky Leone</h1>
 
 
-<img align="right" src="https://user-images.githubusercontent.com/108899493/180130260-e42d087e-744c-4dca-83ca-49b5b073c1b3.png" alt="img"> 
+
 
 <h4><b>My Skills and tools:</b></h4>
 
