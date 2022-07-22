@@ -14,7 +14,7 @@
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-<img align="right" src="https://assets8.lottiefiles.com/packages/lf20_0yfsb3a1.json" alt="img">
+<img align="right" src="https://lottiefiles.com/97639-coding">
 
 
 - 🔭 I’m currently working on <a href="https://npmInicola90.github.io">NSR gaming</a>
