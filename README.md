@@ -15,7 +15,6 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
-<lottie-player src="https://assets8.lottiefiles.com/packages/lf20_0yfsb3a1.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
 
 - 🔭 I’m currently working on <a href="https://npmInicola90.github.io">NSR gaming</a>
 - 🌱 I’m mastering <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a> and <a href="https://en.wikipedia.org/wiki/HTML">HTML</a>
