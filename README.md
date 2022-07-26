@@ -47,7 +47,7 @@
   
   ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-189%20Thousand%20lines%20of%20code-blue) 
 
-[![Nikky's github activity graph](https://activity-graph.herokuapp.com/graph?username=npmInicola90&custom_title=Nikky's%20github%20activity%20graph&hide_border=true)
+![Nikky's github activity graph](https://activity-graph.herokuapp.com/graph?username=npmInicola90&custom_title=Nikky's%20github%20activity%20graph&hide_border=true)
   
   
  
