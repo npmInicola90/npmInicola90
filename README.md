@@ -36,7 +36,7 @@
 
 
 
-![Snake animation](https://github.com/mlarasusan/mlarasusan/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/npmInicola90/npmInicola90/blob/output/github-contribution-grid-snake.svg)
   
   
   
