@@ -45,11 +45,10 @@
   
   ![CodeFactor](https://www.codefactor.io/repository/github/npminicola90/stock-prediction-price/badge) ![CoderBadge](https://api.codiga.io/project/34182/status/svg)
   
+  [![Percentage of issues still open](http://isitmaintained.com/badge/open/Naereen/badges.svg)](http://isitmaintained.com/project/npmInicola90/badges "Percentage of issues still open")
+  
   ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-202%20Thousand%20lines%20of%20code-blue)  
   
-  
- ![Profile views](https://gpvc.arturio.dev/npmInicola90) 
- 
  ![activity graph](https://activity-graph.herokuapp.com/graph?username=npmInicola90&custom_title=Nikky's%20activity%20graph&theme=github-light&hide_border=true)
  
  
