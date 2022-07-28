@@ -43,7 +43,7 @@
   
   <h1 align="center"> Also, check out my Github stats and the languages I use the most! :)</h1>
   
-  ![CodeFactor](https://www.codefactor.io/repository/github/npminicola90/stock-prediction-price/badge) ![CoderBadge](https://api.codiga.io/project/34182/status/svg)![Percentage of issues still open](http://isitmaintained.com/badge/open/Naereen/badges.svg) [codecov](https://res.cloudinary.com/practicaldev/image/fetch/s--eJpb-e_y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/e8jbt864adnofe6uk8np.png)
+  ![CodeFactor](https://www.codefactor.io/repository/github/npminicola90/stock-prediction-price/badge) ![CoderBadge](https://api.codiga.io/project/34182/status/svg)![Percentage of issues still open](http://isitmaintained.com/badge/open/Naereen/badges.svg) [![Known Vulnerabilities](https://snyk.io/test/github/dwyl/hapi-auth-jwt2/badge.svg?targetFile=package.json)]
   
   ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-202%20Thousand%20lines%20of%20code-blue)  
   
