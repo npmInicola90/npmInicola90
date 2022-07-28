@@ -43,7 +43,7 @@
   
   <h1 align="center"> Also, check out my Github stats and the languages I use the most! :)</h1>
   
-  ![CodeFactor](https://www.codefactor.io/repository/github/npminicola90/stock-prediction-price/badge) ![CoderBadge](https://api.codiga.io/project/34182/status/svg)![Percentage of issues still open](http://isitmaintained.com/badge/open/Naereen/badges.svg)  [![GitLab last commit](https://badgen.net/gitlab/last-commit/npmInicola90/HomelabOS/)
+  ![CodeFactor](https://www.codefactor.io/repository/github/npminicola90/stock-prediction-price/badge) ![CoderBadge](https://api.codiga.io/project/34182/status/svg)![Percentage of issues still open](http://isitmaintained.com/badge/open/Naereen/badges.svg) [codecov](https://codecov.io/gh/npmInicola90.github.io/branch/main/graph/badge.svg)
   
   ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-202%20Thousand%20lines%20of%20code-blue)  
   
