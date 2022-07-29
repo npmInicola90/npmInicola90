@@ -51,7 +51,7 @@
  
  
  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npmInicola90&langs_count=8" height='250' />  <img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npmInicola90&langs_count=8" height='250' />  ![Top languages](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
   
 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=npmInicola90&show_icons=true&theme=gotham" />
