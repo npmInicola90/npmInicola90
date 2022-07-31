@@ -41,7 +41,22 @@
   
   
   
-  <h1 align="center"> Also, check out my Github stats and the languages I use the most! :)</h1>
+
+
+
+<h1 align="center"> Weekly development breakdown </h1>
+
+
+Python      8 hrs 52 mins       ███████████████████░░░░░░   75.87 %
+HTML        1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.79 %
+JavaScript  52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+CSS         16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+SQL         7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+
+
+
+
+<h1 align="center"> Also, check out my Github stats and the languages I use the most! :)</h1>
   
   ![CodeFactor](https://www.codefactor.io/repository/github/npminicola90/stock-prediction-price/badge) ![CoderBadge](https://api.codiga.io/project/34182/status/svg)![Percentage of issues still open](http://isitmaintained.com/badge/open/Naereen/badges.svg) ![Known Vulnerabilities](https://snyk.io/test/github/dwyl/hapi-auth-jwt2/badge.svg?targetFile=package.json) ![Language grade: Python,Javascript](https://img.shields.io/lgtm/grade/python/g/npmInicola90/Scientific-calculator-.svg?logo=lgtm&logoWidth=18) ![Total alerts](https://img.shields.io/lgtm/alerts/g/npmInicola90/npmInicola90.github.io.svg?logo=lgtm&logoWidth=18) ![CodeClimate](https://codeclimate.com/github/npmInicola90/Bank-account-text-game-/badges/gpa.svg) ![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/npmInicola90/npmInicola90.github.io.svg?logo=lgtm&logoWidth=18) ![codebeat badge](https://codebeat.co/badges/f7080893-9af7-4785-916c-d5fdbc67e26c) ![Coverage Status](https://coveralls.io/repos/boennemann/badges/badge.svg)
   
