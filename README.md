@@ -51,6 +51,10 @@
  
  
  
+ <figure><embed src="https://wakatime.com/share/@abf7fb55-b20a-4453-8399-384ed08ae25b/6ee7e60d-9016-406a-a1a6-e433ca39190a.svg"></embed></figure>
+ 
+ 
+ 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npmInicola90&langs_count=10&compact" height='250' />  
   
 
