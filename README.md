@@ -47,11 +47,6 @@
 <h1 align="center"> Weekly development breakdown </h1>
 
 
-Python      8 hrs 52 mins       ███████████████████░░░░░░   75.87 %
-HTML        1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.79 %
-JavaScript  52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-CSS         16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-SQL         7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 
 
 
