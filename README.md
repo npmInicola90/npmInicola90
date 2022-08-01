@@ -50,13 +50,13 @@
 📅 **I'm Most Productive on Sundays** 
 
 ```text
-Monday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
-Tuesday      85 commits     █████░░░░░░░░░░░░░░░░░░░░   22.43% 
-Wednesday    56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.78% 
-Thursday     44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
-Friday       28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.39% 
-Saturday     30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.92% 
-Sunday       86 commits     █████░░░░░░░░░░░░░░░░░░░░   22.69%
+  Monday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
+  Tuesday      85 commits     █████░░░░░░░░░░░░░░░░░░░░   22.43% 
+  Wednesday    56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.78% 
+  Thursday     44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
+  Friday       28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.39% 
+  Saturday     30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.92% 
+  Sunday       86 commits     █████░░░░░░░░░░░░░░░░░░░░   22.69%
 
 ```
 ```text
@@ -78,20 +78,13 @@ Sunday       86 commits     █████░░░░░░░░░░░░�
   ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-202%20Thousand%20lines%20of%20code-blue)  
   
  ![activity graph](https://activity-graph.herokuapp.com/graph?username=npmInicola90&custom_title=Nikky's%20activity%20graph&theme=github-light&hide_border=true)
- 
- 
- 
 
- 
- 
- 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npmInicola90&langs_count=10&compact" height='250' />  
   
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=npmInicola90&show_icons=true&theme=gotham" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=npmInicola90&show_icons=true&theme=gotham" />
   
   
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=npmInicola90&theme=highcontrast&hide_border=true) 
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=npmInicola90&theme=highcontrast&hide_border=true) 
 
 
   
