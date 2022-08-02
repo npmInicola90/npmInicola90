@@ -6,7 +6,7 @@
 
 <h4><b>My Skills and tools:</b></h4>
 
-<img align="right" src="https://user-images.githubusercontent.com/108899493/182335536-63ab1325-44c1-4b24-9ced-1ac372c06cdd.png" alt="img"> 
+<img align="right" src="https://user-images.githubusercontent.com/108899493/180130260-e42d087e-744c-4dca-83ca-49b5b073c1b3.png" alt="img"> 
 
 
 
