@@ -47,7 +47,7 @@
 <h1 align="center"> Weekly development breakdown </h1>
 
 
-📅 **I'm Most Productive on Sundays** 
+📅 **I'm Most Productive on Thursdays** 
 
 ```text
   Monday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
