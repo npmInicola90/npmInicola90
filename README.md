@@ -84,8 +84,11 @@
 
   
  ![activity graph](https://activity-graph.herokuapp.com/graph?username=npmInicola90&custom_title=Nikky's%20activity%20graph&theme=github-light&hide_border=true)
-<details>
-  
+
+  <details>
+  <summary><b>My GitHub rank</b></summary>
+  <br/>
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=npmInicola90&show_icons=true&theme=gotham" />
   
