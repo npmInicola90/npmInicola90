@@ -76,6 +76,12 @@
   ![CodeFactor](https://www.codefactor.io/repository/github/npminicola90/stock-prediction-price/badge) ![CoderBadge](https://api.codiga.io/project/34182/status/svg)![Percentage of issues still open](http://isitmaintained.com/badge/open/Naereen/badges.svg) ![Known Vulnerabilities](https://snyk.io/test/github/dwyl/hapi-auth-jwt2/badge.svg?targetFile=package.json) ![Language grade: Python,Javascript](https://img.shields.io/lgtm/grade/python/g/npmInicola90/Scientific-calculator-.svg?logo=lgtm&logoWidth=18) ![Total alerts](https://img.shields.io/lgtm/alerts/g/npmInicola90/npmInicola90.github.io.svg?logo=lgtm&logoWidth=18) ![CodeClimate](https://codeclimate.com/github/npmInicola90/Bank-account-text-game-/badges/gpa.svg) ![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/npmInicola90/npmInicola90.github.io.svg?logo=lgtm&logoWidth=18) ![codebeat badge](https://codebeat.co/badges/f7080893-9af7-4785-916c-d5fdbc67e26c) ![Coverage Status](https://coveralls.io/repos/boennemann/badges/badge.svg)
   
   ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-202%20Thousand%20lines%20of%20code-blue)  
+
+
+<details>
+  <summary><b>My Activity graph</b></summary>
+  <br/>
+
   
  ![activity graph](https://activity-graph.herokuapp.com/graph?username=npmInicola90&custom_title=Nikky's%20activity%20graph&theme=github-light&hide_border=true)
 
