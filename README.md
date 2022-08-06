@@ -91,8 +91,7 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=npmInicola90&show_icons=true&theme=gotham" />
-
-  
+                                                     
   <details>
   <summary><b>My GitHub streak</b></summary>
   <br/>
