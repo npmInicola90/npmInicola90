@@ -86,13 +86,16 @@
  ![activity graph](https://activity-graph.herokuapp.com/graph?username=npmInicola90&custom_title=Nikky's%20activity%20graph&theme=github-light&hide_border=true)
 
   <details>
-  <summary><b>My GitHub rank</b></summary>
+  <summary><b>My GitHub stats</b></summary>
   <br/>
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=npmInicola90&show_icons=true&theme=gotham" />
   
-  
+  <details>
+  <summary><b>My GitHub streak</b></summary>
+  <br/>
+
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=npmInicola90&theme=highcontrast&hide_border=true) 
 
 
