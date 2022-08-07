@@ -96,7 +96,7 @@
   <details>
   <summary><b>My GitHub streak</b></summary>
   <br/>
-![GitHub streak](http://github-readme-streak-stats.herokuapp.com?user=npmInicola90&theme=highcontrast&hide_border=true)
+![gitHub streak](http://github-readme-streak-stats.herokuapp.com?user=npmInicola90&theme=highcontrast&hide_border=true)
 
 
   
