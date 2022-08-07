@@ -98,7 +98,7 @@
   <summary><b>My GitHub streak</b></summary>
   <br/>
 
-<img align="left" scr="http://github-readme-streak-stats.herokuapp.com?user=npmInicola90&theme=highcontrast&hide_border=true"
+<img align="left" scr="http://github-readme-streak-stats.herokuapp.com?user=npmInicola90&theme=highcontrast&hide_border=true">
 
 
   
