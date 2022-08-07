@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, My name is Nikky Leone</h1>
+<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, My name is Nicola Leone</h1>
 
 
 
@@ -92,7 +92,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=npmInicola90&show_icons=true&theme=gotham" />
 
-  <details>
+<details>
   <summary><b>My GitHub streak</b></summary>
   <br/>
 
