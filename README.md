@@ -78,7 +78,7 @@
   ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-202%20Thousand%20lines%20of%20code-blue)  
 
 
-<details>
+  <details>
   <summary><b>My Activity graph</b></summary>
   <br/>
 
@@ -98,8 +98,7 @@
   <summary><b>My GitHub streak</b></summary>
   <br/>
 
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=npmInicola90&theme=highcontrast&hide_border=true) 
+<img align="left" scr="http://github-readme-streak-stats.herokuapp.com?user=npmInicola90&theme=highcontrast&hide_border=true"
 
 
   
