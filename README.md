@@ -119,7 +119,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous+color&size=50&duration=3850&pause=900&color=E1E1E1E1&width=700&height=100&lines=Thanks+for+visiting%2C;have+a+nice+day" alt="Typing SVG" /></a>
  
   <details>
-  <summary><b>My Activity graph</b></summary>
+  <summary><b>*whispering noise*</b></summary>
   <br/>
   
  ![activity graph](https://activity-graph.herokuapp.com/graph?username=npmInicola90&custom_title=Nikky's%20activity%20graph&theme=github-light&hide_border=true)
