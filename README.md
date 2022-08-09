@@ -116,10 +116,8 @@
   <details>
   <summary><b>My GitHub streak</b></summary>
   <br/>
-  
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=npmInicola90&theme=highcontrast&hide_border=true)
-   <details>
+  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=npmInicola90&theme=highcontrast&hide_border=true)
+  <details/>
   
    
    
