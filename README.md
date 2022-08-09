@@ -23,7 +23,7 @@
 [<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg' alt='AWS' height='45' >](https://en.wikipedia.org/wiki/Amazon_Web_Services)
 [<img src='https://user-images.githubusercontent.com/108899493/180409149-354bc685-f2f6-4aee-b643-bf09d048ef5c.png' alt='Unity' height='45'>](https://en.wikipedia.org/wiki/Unity_(game_engine))
 [<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg' alt='Ps' height='40' >](https://en.wikipedia.org/wiki/Adobe_Photoshop)
-[<img src='https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg' alt='bash' height='38' >](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[<img src='https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg' alt='bash' height='43' >](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 [<img src='https://user-images.githubusercontent.com/108899493/183380740-5798ad9d-f8a8-46a9-bd39-8e36c8e82898.png' alt='phpmyadmin' height='45' >](https://en.wikipedia.org/wiki/PhpMyAdmin)
 [<img src="https://user-images.githubusercontent.com/108899493/183462245-8ab28005-3048-41f9-9e47-ed3827dc200e.png" alt='vscode' height='45'>](https://en.wikipedia.org/wiki/Visual_Studio_Code)
 [<img src='https://user-images.githubusercontent.com/108899493/183463244-1f1c999d-f0f0-44ca-a8be-97272b48153a.png' alt='JQuery' height='45'>](https://en.wikipedia.org/wiki/JQuery)
@@ -39,7 +39,7 @@
 
 
 
-- 🔭 I’m currently working on <a href="https://npmInicola90.github.io">NSR gaming</a>
+- 🔭 I’m currently working on <a href="https://npmInicola90.github.io">Developer X</a>
 - 🌱 I’m mastering <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a> and <a href="https://en.wikipedia.org/wiki/HTML">HTML</a>
 - 💬 You can contact me on: <a href="https://mail.google.com/mail/u/0/?to=nicolaleone.commercial@gmail.com&subject=Hey"> My email</a>
 - 📫 if you wish to reach me: <a href="https://goo.gl/maps/w6pmKnydjWrr8YQd7"> Chelsea, London</a>
