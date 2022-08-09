@@ -119,7 +119,7 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=npmInicola90&theme=highcontrast&hide_border=true)
 
-  
+<br/>
   
 <img width="100%" src="Images/Dynamic/isocalendar.svg">
   <img width="100%" src="Images/Dynamic/contribs.svg">
