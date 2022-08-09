@@ -116,10 +116,9 @@
   <img width="85%" src="Images/Dynamic/website.svg">
   <br><br><br>
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous+color&size=50&duration=3850&pause=600&color=E1E1E1E1&width=700&height=100&lines=Thanks+for+visiting%2C;have+a+nice+day" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous+color&size=50&duration=3850&pause=600&color=E1E1E1E1&width=700&height=100&lines=Thanks+for+visiting%2C;Have+a+nice+day" alt="Typing SVG" /></a>
  
   
-
 
 
 
