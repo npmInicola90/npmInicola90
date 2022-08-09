@@ -121,3 +121,10 @@
 
   
   
+<img width="100%" src="Images/Dynamic/isocalendar.svg">
+  <img width="100%" src="Images/Dynamic/contribs.svg">
+  <img width="100%" src="Images/Dynamic/languages.svg">
+  <img width="100%" src="Images/Dynamic/topics.svg">
+  <img width="100%" src="Images/Dynamic/achievements.svg">
+  <img width="100%" src="Images/Dynamic/reactions.svg">
+  <img width="100%" src="Images/Dynamic/website.svg">
