@@ -100,8 +100,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
-<img height="60px" align="centre" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=50&center=true&vCenter=true&width=300&lines=There's+More+...">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous+color&size=50&duration=4000&pause=1000&color=E1E1E1E1&width=450&height=100&lines=There's+more;Don't+go+yet%2C+" alt="Typing SVG" /></a>
    
    
    
