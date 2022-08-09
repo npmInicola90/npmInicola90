@@ -102,18 +102,38 @@
    
    
    
-<img width="50%" src="Images/Dynamic/stats.svg">
+<img width="75%" src="Images/Dynamic/stats.svg">
   <br><br>
-  <img width="50%" src="Images/Dynamic/isocalendar.svg">
-  <img width="50%" src="Images/Dynamic/habits.svg">
-  <img width="50%" src="Images/Dynamic/issuesPRs.svg">
-  <img width="50%" src="Images/Dynamic/contribs.svg">
-  <img width="50%" src="Images/Dynamic/topics.svg">
-  <img width="50%" src="Images/Dynamic/achievements.svg">
-  <img width="50%" src="Images/Dynamic/reactions.svg">
-  <img width="50%" src="Images/Dynamic/website.svg">
+  <img width="75%" src="Images/Dynamic/isocalendar.svg">
+  <img width="75%" src="Images/Dynamic/habits.svg">
+  <img width="75%" src="Images/Dynamic/issuesPRs.svg">
+  <img width="75%" src="Images/Dynamic/contribs.svg">
+  <img width="75%" src="Images/Dynamic/topics.svg">
+  <img width="75%" src="Images/Dynamic/achievements.svg">
+  <img width="75%" src="Images/Dynamic/reactions.svg">
+  <img width="75%" src="Images/Dynamic/website.svg">
   <br><br><br>
   
   
  <h4 align="left">whispering noise:</h4>
  
+  <details>
+  <summary><b>My Activity graph</b></summary>
+  <br/>
+  
+ ![activity graph](https://activity-graph.herokuapp.com/graph?username=npmInicola90&custom_title=Nikky's%20activity%20graph&theme=github-light&hide_border=true)
+  <details>
+  <summary><b>My GitHub stats</b></summary>
+  <br/>
+<img align="centre" src="https://github-readme-stats.vercel.app/api?username=npmInicola90&show_icons=true&theme=gotham" />
+                                                                          
+                                                                          
+  <details>
+  <summary><b>My GitHub streak</b></summary>
+  <br/>
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=npmInicola90&theme=highcontrast&hide_border=true)
+
+   
+   
+   
+   
