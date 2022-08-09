@@ -97,44 +97,13 @@
   
   ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-202%20Thousand%20lines%20of%20code-blue)  
 
-<details>
-  <details>
-  <summary><b>My Activity graph</b></summary>
-  <br/>
 
-  
- ![activity graph](https://activity-graph.herokuapp.com/graph?username=npmInicola90&custom_title=Nikky's%20activity%20graph&theme=github-light&hide_border=true)
-
-  <details>
-  <summary><b>My GitHub stats</b></summary>
-  <br/>
-
-
-<img align="centre" src="https://github-readme-stats.vercel.app/api?username=npmInicola90&show_icons=true&theme=gotham" />
-                                                                          
-                                                                          
-  <details>
-  <summary><b>My GitHub streak</b></summary>
-  <br/>
-   
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=npmInicola90&theme=highcontrast&hide_border=true)
-   
- <details/>
-  
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------  
    
    
    
    
-   
-   
-   
-   
-   
-   
-   
-   
-   
-  
 <img width="100%" src="Images/Dynamic/stats.svg">
   <br><br>
   <img width="100%" src="Images/Dynamic/isocalendar.svg">
