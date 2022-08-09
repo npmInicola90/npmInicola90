@@ -97,11 +97,11 @@
   
   ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-202%20Thousand%20lines%20of%20code-blue)  
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-
-<img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=50&center=true&vCenter=true&width=300&lines=There's+More...">
+<img height="60px" align="centre" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=50&center=true&vCenter=true&width=300&lines=There's+More+...">
    
    
    
