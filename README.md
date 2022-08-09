@@ -119,7 +119,20 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=npmInicola90&theme=highcontrast&hide_border=true)
   
-   <br/>
+   <br>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
   
 <img width="100%" src="Images/Dynamic/stats.svg">
   <br><br>
@@ -127,7 +140,6 @@
   <img width="100%" src="Images/Dynamic/habits.svg">
   <img width="100%" src="Images/Dynamic/issuesPRs.svg">
   <img width="100%" src="Images/Dynamic/contribs.svg">
-  <img width="100%" src="Images/Dynamic/languages.svg">
   <img width="100%" src="Images/Dynamic/topics.svg">
   <img width="100%" src="Images/Dynamic/achievements.svg">
   <img width="100%" src="Images/Dynamic/reactions.svg">
