@@ -102,20 +102,19 @@
    
    
    
-<img width="75%" src="Images/Dynamic/stats.svg">
+<img width="85%" src="Images/Dynamic/stats.svg">
   <br><br>
-  <img width="75%" src="Images/Dynamic/isocalendar.svg">
-  <img width="75%" src="Images/Dynamic/habits.svg">
-  <img width="75%" src="Images/Dynamic/issuesPRs.svg">
-  <img width="75%" src="Images/Dynamic/contribs.svg">
-  <img width="75%" src="Images/Dynamic/topics.svg">
-  <img width="75%" src="Images/Dynamic/achievements.svg">
-  <img width="75%" src="Images/Dynamic/reactions.svg">
-  <img width="75%" src="Images/Dynamic/website.svg">
+  <img width="85%" src="Images/Dynamic/isocalendar.svg">
+  <img width="85%" src="Images/Dynamic/habits.svg">
+  <img width="85%" src="Images/Dynamic/issuesPRs.svg">
+  <img width="85%" src="Images/Dynamic/contribs.svg">
+  <img width="85%" src="Images/Dynamic/topics.svg">
+  <img width="85%" src="Images/Dynamic/achievements.svg">
+  <img width="85%" src="Images/Dynamic/reactions.svg">
+  <img width="85%" src="Images/Dynamic/website.svg">
   <br><br><br>
   
   
- <h1 align="centre">When will this stop?</h1>
  
   <details>
   <summary><b>My Activity graph</b></summary>
