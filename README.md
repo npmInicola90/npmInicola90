@@ -104,14 +104,14 @@
    
    
    
-<img width="100%" src="Images/Dynamic/stats.svg">
+<img width="50%" src="Images/Dynamic/stats.svg">
   <br><br>
-  <img width="100%" src="Images/Dynamic/isocalendar.svg">
-  <img width="100%" src="Images/Dynamic/habits.svg">
-  <img width="100%" src="Images/Dynamic/issuesPRs.svg">
-  <img width="100%" src="Images/Dynamic/contribs.svg">
-  <img width="100%" src="Images/Dynamic/topics.svg">
-  <img width="100%" src="Images/Dynamic/achievements.svg">
-  <img width="100%" src="Images/Dynamic/reactions.svg">
-  <img width="100%" src="Images/Dynamic/website.svg">
+  <img width="50%" src="Images/Dynamic/isocalendar.svg">
+  <img width="50%" src="Images/Dynamic/habits.svg">
+  <img width="50%" src="Images/Dynamic/issuesPRs.svg">
+  <img width="50%" src="Images/Dynamic/contribs.svg">
+  <img width="50%" src="Images/Dynamic/topics.svg">
+  <img width="50%" src="Images/Dynamic/achievements.svg">
+  <img width="50%" src="Images/Dynamic/reactions.svg">
+  <img width="50%" src="Images/Dynamic/website.svg">
   <br><br><br>
