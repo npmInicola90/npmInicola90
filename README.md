@@ -123,18 +123,8 @@
 
 
 
-
-
-  
-  
-  
-  
-  
-  
-  
-  
-  <details>
-  <summary><b>*whispering noise*</b></summary>
+<details>
+  <summary><i>whispering noise</i></summary>
   <br/>
   
  ![activity graph](https://activity-graph.herokuapp.com/graph?username=npmInicola90&custom_title=Nikky's%20activity%20graph&theme=github-light&hide_border=true)
