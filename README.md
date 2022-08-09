@@ -115,7 +115,7 @@
   <br><br><br>
   
   
- <h4 align="left">whispering noise:</h4>
+ <h1 align="centre">When will this stop?</h1>
  
   <details>
   <summary><b>My Activity graph</b></summary>
