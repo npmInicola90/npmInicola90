@@ -97,7 +97,7 @@
   
   ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-202%20Thousand%20lines%20of%20code-blue)  
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous+color&size=50&duration=3800&pause=1000&color=E1E1E1E1&width=700&height=100&lines=There's+more;Don't+go+yet%2C+" alt="Typing SVG" /></a>
@@ -110,6 +110,7 @@
   <img width="85%" src="Images/Dynamic/habits.svg">
   <img width="85%" src="Images/Dynamic/issuesPRs.svg">
   <img width="85%" src="Images/Dynamic/contribs.svg">
+  <img width="85%" src="Images/Dynamic/languages.svg">
   <img width="85%" src="Images/Dynamic/topics.svg">
   <img width="85%" src="Images/Dynamic/achievements.svg">
   <img width="85%" src="Images/Dynamic/reactions.svg">
