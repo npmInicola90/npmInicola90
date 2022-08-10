@@ -23,7 +23,8 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="215.77957164987282" height="8" fill="#ff3a3a"/>
                     <rect mask="url(#languages-bar)" x="215.77957164987282" y="0" width="141.3635575515541" height="8" fill="#0000ff"/>
-                    <rect mask="url(#languages-bar)" x="417.77999801031797" y="0" width="42.220001989682075" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="357.1431292014269" y="0" width="60.63686880889103" height="8" fill="#ff48bd"/>
+                    <rect mask="url(#languages-bar)" x="417.77999801031797" y="0" width="42.220001989682075" height="8" fill="#ffc0cb"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -65,7 +66,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ffc0cb" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 SQL
                             </div>
