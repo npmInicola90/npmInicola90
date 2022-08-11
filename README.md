@@ -103,19 +103,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous+color&size=50&duration=3800&pause=1000&color=E1E1E1E1&width=700&height=100&lines=There's+more;Don't+go+yet%2C+" alt="Typing SVG" /></a>
    
    
-   
-<img width="85%" src="Images/Dynamic/stats.svg">
-  <br><br>
-  <img width="85%" src="Images/Dynamic/isocalendar.svg">
-  <img width="85%" src="Images/Dynamic/habits.svg">
-  <img width="85%" src="Images/Dynamic/issuesPRs.svg">
-  <img width="85%" src="Images/Dynamic/contribs.svg">
-  <img width="85%" src="Images/Dynamic/languages.svg">
-  <img width="85%" src="Images/Dynamic/topics.svg">
-  <img width="85%" src="Images/Dynamic/achievements.svg">
-  <img width="85%" src="Images/Dynamic/reactions.svg">
-  <img width="85%" src="Images/Dynamic/website.svg">
-  <br><br><br>
+![Metrics](https://metrics.lecoq.io/npmInicola90?template=classic&isocalendar=1&languages=1&followup=1&stars=1&code=1&activity=1&achievements=1&notable=1&lines=1&pagespeed=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&followup.archived=true&code.lines=12&code.load=400&code.days=3&code.visibility=public&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=Europe%2FRome)
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous+color&size=50&duration=3850&pause=600&color=E1E1E1E1&width=700&height=100&lines=Thanks+for+visiting%2C;Have+a+nice+day" alt="Typing SVG" /></a>
  
