@@ -64,6 +64,6 @@ jobs:
           plugin_notable_from: organization
           plugin_notable_types: commit
           plugin_pagespeed: yes
-          plugin_pagespeed_url: .user.website
+          plugin_pagespeed_url: npmInicola90.github.io
           plugin_stars: yes
           plugin_stars_limit: 4
