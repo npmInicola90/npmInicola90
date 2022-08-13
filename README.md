@@ -103,7 +103,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous+color&size=50&duration=3800&pause=1000&color=E1E1E1E1&width=700&height=100&lines=There's+more;Don't+go+yet%2C+" alt="Typing SVG" /></a>
    
    
-<img width="75%" src="github-metrics.svg">
+<img width="100%" src="github-metrics.svg">
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous+color&size=50&duration=3850&pause=600&color=E1E1E1E1&width=700&height=100&lines=Thanks+for+visiting%2C;Have+a+nice+day" alt="Typing SVG" /></a>
  
