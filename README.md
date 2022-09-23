@@ -19,7 +19,7 @@
 [<img src='https://user-images.githubusercontent.com/96917595/152838976-d7a81ec0-702a-4c0e-9492-cc9989f55174.svg' alt='WordPress' height='45'>](https://en.wikipedia.org/wiki/WordPress)
 [<img src='https://user-images.githubusercontent.com/96917595/152839303-3945d867-5edd-4ac7-ad00-512b40cacc6b.svg' alt='Python' height='45'>](https://en.wikipedia.org/wiki/Python_(programming_language))
 [<img src='https://upload.wikimedia.org/wikipedia/commons/9/92/Bootstrap_Studio_Logo.png' alt='Bootstrap Studio' height='40'>](https://en.wikipedia.org/wiki/Bootstrap_Studio)
-[<img src='https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg' alt='Golang' height='45'>](https://en.wikipedia.org/wiki/Go_(programming_language))
+[<img src='https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg' alt='Golang' height='45' width='45'>](https://en.wikipedia.org/wiki/Go_(programming_language))
 [<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg' alt='AWS' height='45' >](https://en.wikipedia.org/wiki/Amazon_Web_Services)
 [<img src='https://user-images.githubusercontent.com/108899493/180409149-354bc685-f2f6-4aee-b643-bf09d048ef5c.png' alt='Unity' height='45'>](https://en.wikipedia.org/wiki/Unity_(game_engine))
 [<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg' alt='Ps' height='40' >](https://en.wikipedia.org/wiki/Adobe_Photoshop)
